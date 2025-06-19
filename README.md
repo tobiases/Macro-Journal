@@ -1,4 +1,4 @@
-#  Daily Macro Journal (Bloomberg Terminal-Based)
+#  Daily Macro Journal
 
 This is a personal daily macroeconomic journal where I log key market developments, macro data, and financial insights using Bloomberg Terminal data. The goal is to improve my macro intuition, track patterns, and build a routine that sharpens trading decision-making.
 
