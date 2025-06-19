@@ -22,5 +22,6 @@ This is a personal daily macroeconomic journal where I log key market developmen
 - Economic calendar: `ECOW`
 - News: `TOP`, `N`
 
-[!WARNING]
-This is not financial advice.
+> [!WARNING]
+> This is not financial advice.
+
